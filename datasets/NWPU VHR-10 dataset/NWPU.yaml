@@ -1,0 +1,6 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 10
+names: ['airplane','ship','storage tank','baseball diamond','tennis court','basketball court','ground track field','harbor','bridge','vehicle']
